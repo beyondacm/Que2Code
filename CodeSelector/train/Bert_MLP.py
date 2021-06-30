@@ -10,7 +10,7 @@ class Config(object):
         self.hidden_size = 768
         self.tokenizer = BertTokenizer.from_pretrained(self.bert_path)
         self.batch_size = 16
-        self.num_epochs = 7 
+        self.num_epochs = 1 
 
 
 class Model(nn.Module):
