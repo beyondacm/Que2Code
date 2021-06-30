@@ -1,6 +1,6 @@
 # I Know What You Are Searching For: Code Snippet Recommendation from Stack Overflow Posts
 
-![Workflow of Que2Code](./figures/workflow.png){:height="70%" width="70%"}
+![Workflow of Que2Code](./figures/workflow.png)
 
 
 Stack Overflow has been heavily used by software developers to seek programming-related information.
